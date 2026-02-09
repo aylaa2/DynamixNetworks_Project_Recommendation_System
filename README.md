@@ -39,7 +39,7 @@ When the user searches for **"Toy Story (1995)"**, the system recommends:
 ##  How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/DynamixNetworks_Project_Recommendation_System.git](https://github.com/YOUR_USERNAME/DynamixNetworks_Project_Recommendation_System.git)
+    git clone [https://github.com/YOUR_USERNAME/DynamixNetworks_Project_Recommendation_System.git](https://github.com/aylaa2/DynamixNetworks_Project_Recommendation_System.git)
     ```
 2.  **Install dependencies:**
     ```bash
