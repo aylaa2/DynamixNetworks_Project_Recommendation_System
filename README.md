@@ -12,7 +12,7 @@ The project implements an **Item-Based Collaborative Filtering** system using Py
 * **Smart Filtering:** Removes movies with fewer than 50 ratings to avoid noise and ensure quality recommendations.
 * **Interactive System:** Users can input any movie title (e.g., "Toy Story (1995)") and receive top 10 recommendations.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** Python 3.x
 * **Libraries:** Pandas, NumPy
 * **Environment:** Google Colab / Jupyter Notebook
@@ -23,7 +23,7 @@ The project uses the **MovieLens Latest Small** dataset provided by GroupLens Re
 * `ratings.csv`: Contains User IDs, Movie IDs, and Ratings (0.5 - 5.0).
 * *Source:* [GroupLens MovieLens Datasets](https://grouplens.org/datasets/movielens/)
 
-## 📸 Results Demo
+##  Results Demo
 When the user searches for **"Toy Story (1995)"**, the system recommends:
 
 | Rank | Movie Title | Correlation |
